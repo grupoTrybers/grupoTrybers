@@ -60,7 +60,7 @@ id: snake-gif
 
 with:
 
-github_user_name: luna-alves-dev
+github_user_name: grupoTrybers
 
 # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
 
