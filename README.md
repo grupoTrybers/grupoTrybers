@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grupoTrybers&layout=compact)](https://github.com/grupoTrybers/github-readme-stats)
 
-### Technologies utilizadas durante o curso
+### Technologias utilizadas durante o curso
 
 <div style="display: inline_block"><br/>
   <image alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
