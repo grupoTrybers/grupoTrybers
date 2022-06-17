@@ -11,6 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grupoTrybers)](https://github.com/grupoTrybers/github-readme-stats)
 
+
 ### Technologias utilizadas durante o curso
 
 <div style="display: inline_block"><br/>
