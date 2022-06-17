@@ -9,7 +9,7 @@
 
 ![grupoTrybers GitHub stats](https://github-readme-stats.vercel.app/api?username=grupoTrybers&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grupoTrybers&layout=compact)](https://github.com/grupoTrybers/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grupoTrybers)](https://github.com/grupoTrybers/github-readme-stats)
 
 ### Technologias utilizadas durante o curso
 
